@@ -1,0 +1,566 @@
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.exe
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.deps.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.runtimeconfig.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfo.cs
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.Posterr.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.Posterr.WebApplication.props
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posterr.WebApplication.props
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posterr.WebApplication.props
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\scopedcss\bundle\Posterr.WebApplication.styles.css
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr..6A7408CC.Up2Date
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\refint\Posterr.WebApplication.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.genruntimeconfig.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\ref\Posterr.WebApplication.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.exe
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.deps.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.runtimeconfig.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Humanizer.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfo.cs
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.Posterr.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.Posterr.WebApplication.props
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posterr.WebApplication.props
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posterr.WebApplication.props
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\scopedcss\bundle\Posterr.WebApplication.styles.css
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr..6A7408CC.Up2Date
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\refint\Posterr.WebApplication.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.genruntimeconfig.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\ref\Posterr.WebApplication.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bruno\Downloads\net_social_media\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Production.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Production.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.exe
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.deps.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.runtimeconfig.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.pdb
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Azure.Core.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Azure.Identity.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Humanizer.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.CodeDom.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.pdb
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.pdb
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.AssemblyReference.cache
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfoInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfo.cs
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.CoreCompileInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.Posterr.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.Posterr.WebApplication.props
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posterr.WebApplication.props
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posterr.WebApplication.props
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\scopedcss\bundle\Posterr.WebApplication.styles.css
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr..6A7408CC.Up2Date
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\refint\Posterr.WebApplication.dll
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.pdb
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.genruntimeconfig.cache
+G:\Bruno\Posterr\poster_back\Posterr.WebApplication\obj\Debug\net8.0\ref\Posterr.WebApplication.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.exe
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.deps.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.runtimeconfig.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Application.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.Posterr.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.Posterr.WebApplication.props
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posterr.WebApplication.props
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posterr.WebApplication.props
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\scopedcss\bundle\Posterr.WebApplication.styles.css
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr..6A7408CC.Up2Date
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\refint\Posterr.WebApplication.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\Posterr.WebApplication.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.WebApplication\obj\Debug\net8.0\ref\Posterr.WebApplication.dll

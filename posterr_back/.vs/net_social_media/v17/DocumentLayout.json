@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Bruno\\poster_application\\poster_back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|solutionrelative:posterr.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\configurations\\maps\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\configurations\\maps\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.shared\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|solutionrelative:posterr.shared\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.shared\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|solutionrelative:posterr.shared\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.shared\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|solutionrelative:posterr.shared\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.application\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|solutionrelative:posterr.application\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|solutionrelative:posterr.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.application\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|solutionrelative:posterr.application\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18626FD8-08E7-44C6-AD96-A65693249B5F}|Posterr.Tests\\Posterr.Tests.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.tests\\repositories\\postrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18626FD8-08E7-44C6-AD96-A65693249B5F}|Posterr.Tests\\Posterr.Tests.csproj|solutionrelative:posterr.tests\\repositories\\postrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18626FD8-08E7-44C6-AD96-A65693249B5F}|Posterr.Tests\\Posterr.Tests.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.tests\\repositories\\contentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18626FD8-08E7-44C6-AD96-A65693249B5F}|Posterr.Tests\\Posterr.Tests.csproj|solutionrelative:posterr.tests\\repositories\\contentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\posterr.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\posterr.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\posterr.webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\posterr.webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.webapplication\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28457488-EE05-4304-AE24-95BC515592D2}|Posterr.WebApplication\\Posterr.WebApplication.csproj|solutionrelative:posterr.webapplication\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.application\\posterr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8CD5D22-68BE-439A-8E65-20D2AC7D096B}|Posterr.Application\\Posterr.Application.csproj|solutionrelative:posterr.application\\posterr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.shared\\posterr.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A89BF40E-A267-4695-9316-3DB0C1BDCE63}|Posterr.Shared\\Posterr.Domain.csproj|solutionrelative:posterr.shared\\posterr.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|g:\\bruno\\poster_application\\poster_back\\posterr.repository\\migrations\\20240624203500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAA45C-2AC9-451E-86DB-59C7E879503B}|Posterr.Repository\\Posterr.Repository.csproj|solutionrelative:posterr.repository\\migrations\\20240624203500_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Posterr.Shared\\Entities\\Post.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\Post.cs",
+              "RelativeToolTip": "Posterr.Shared\\Entities\\Post.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:12:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Posterr.Shared\\Entities\\User.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\User.cs",
+              "RelativeToolTip": "Posterr.Shared\\Entities\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:51:08.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentRepository.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\ContentRepository.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Repositories\\ContentRepository.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\ContentRepository.cs",
+              "RelativeToolTip": "Posterr.Repository\\Repositories\\ContentRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:17:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Posterr.Repository\\Repositories\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:32:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Posterr.Application\\Services\\UserService.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Posterr.Application\\Services\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:46:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Posterr.Repository\\Repositories\\RepositoryBase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:32:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Content.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\Content.cs",
+              "RelativeDocumentMoniker": "Posterr.Shared\\Entities\\Content.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Entities\\Content.cs",
+              "RelativeToolTip": "Posterr.Shared\\Entities\\Content.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:12:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Configurations\\Maps\\UserMap.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Configurations\\Maps\\UserMap.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Configurations\\Maps\\UserMap.cs",
+              "RelativeToolTip": "Posterr.Repository\\Configurations\\Maps\\UserMap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:26:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Posterr.Application\\Services\\ServiceBase.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "Posterr.Application\\Services\\ServiceBase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:46:42.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Posterr.Application\\Services\\PostService.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\PostService.cs",
+              "RelativeToolTip": "Posterr.Application\\Services\\PostService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:46:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostRepositoryTests.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Tests\\Repositories\\PostRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Posterr.Tests\\Repositories\\PostRepositoryTests.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Tests\\Repositories\\PostRepositoryTests.cs",
+              "RelativeToolTip": "Posterr.Tests\\Repositories\\PostRepositoryTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:43:38.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentRepositoryTests.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Tests\\Repositories\\ContentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Posterr.Tests\\Repositories\\ContentRepositoryTests.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Tests\\Repositories\\ContentRepositoryTests.cs",
+              "RelativeToolTip": "Posterr.Tests\\Repositories\\ContentRepositoryTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:38:17.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Repositories\\PostRepository.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Posterr.Repository\\Repositories\\PostRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:32:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Controllers\\UserController.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Posterr.WebApplication\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:27:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240624203500_InitialCreate.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Migrations\\20240624203500_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Migrations\\20240624203500_InitialCreate.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Migrations\\20240624203500_InitialCreate.cs",
+              "RelativeToolTip": "Posterr.Repository\\Migrations\\20240624203500_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:35:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\ContentService.cs",
+              "RelativeDocumentMoniker": "Posterr.Application\\Services\\ContentService.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Services\\ContentService.cs",
+              "RelativeToolTip": "Posterr.Application\\Services\\ContentService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:04:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Program.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Program.cs",
+              "RelativeToolTip": "Posterr.WebApplication\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:29:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Posterr.WebApplication.csproj",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Posterr.WebApplication.csproj",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Posterr.WebApplication.csproj",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Posterr.WebApplication.csproj",
+              "RelativeToolTip": "Posterr.WebApplication\\Posterr.WebApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T18:20:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Posterr.WebApplication\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T15:34:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\appsettings.Development.json",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.Development.json",
+              "RelativeToolTip": "Posterr.WebApplication\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:31:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Dockerfile",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Dockerfile",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Dockerfile",
+              "RelativeToolTip": "Posterr.WebApplication\\Dockerfile",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-23T19:57:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\appsettings.Production.json",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.Production.json",
+              "RelativeToolTip": "Posterr.WebApplication\\appsettings.Production.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T18:30:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\appsettings.json",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\appsettings.json",
+              "RelativeToolTip": "Posterr.WebApplication\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T15:23:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Posterr.Repository.csproj",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Posterr.Repository.csproj",
+              "RelativeDocumentMoniker": "Posterr.Repository\\Posterr.Repository.csproj",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\Posterr.Repository.csproj",
+              "RelativeToolTip": "Posterr.Repository\\Posterr.Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T19:21:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Posterr.Domain.csproj",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Posterr.Domain.csproj",
+              "RelativeDocumentMoniker": "Posterr.Shared\\Posterr.Domain.csproj",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Shared\\Posterr.Domain.csproj",
+              "RelativeToolTip": "Posterr.Shared\\Posterr.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T19:21:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Posterr.WebApplication\\Controllers\\ContentController.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.WebApplication\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Posterr.WebApplication\\Controllers\\ContentController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:40:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "Posterr.Repository\\AppDataContext.cs",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Repository\\AppDataContext.cs",
+              "RelativeToolTip": "Posterr.Repository\\AppDataContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:04:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Posterr.Application.csproj",
+              "DocumentMoniker": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Posterr.Application.csproj",
+              "RelativeDocumentMoniker": "Posterr.Application\\Posterr.Application.csproj",
+              "ToolTip": "G:\\Bruno\\poster_application\\poster_back\\Posterr.Application\\Posterr.Application.csproj",
+              "RelativeToolTip": "Posterr.Application\\Posterr.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T19:21:22.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

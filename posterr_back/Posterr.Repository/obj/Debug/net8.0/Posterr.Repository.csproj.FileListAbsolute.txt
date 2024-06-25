@@ -1,0 +1,85 @@
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.deps.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.runtimeconfig.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfo.cs
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr..1135A802.Up2Date
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\refint\Posterr.Repository.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.genruntimeconfig.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Repository\obj\Debug\net8.0\ref\Posterr.Repository.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.deps.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.runtimeconfig.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfo.cs
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr..1135A802.Up2Date
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\refint\Posterr.Repository.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.genruntimeconfig.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Repository\obj\Debug\net8.0\ref\Posterr.Repository.dll
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.deps.json
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.runtimeconfig.json
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.dll
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.pdb
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.AssemblyReference.cache
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfoInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfo.cs
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.CoreCompileInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr..1135A802.Up2Date
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.dll
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\refint\Posterr.Repository.dll
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.pdb
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.genruntimeconfig.cache
+G:\Bruno\Posterr\poster_back\Posterr.Repository\obj\Debug\net8.0\ref\Posterr.Repository.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.deps.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.runtimeconfig.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr..1135A802.Up2Date
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\refint\Posterr.Repository.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\ref\Posterr.Repository.dll
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.deps.json
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.runtimeconfig.json
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.dll
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Repository.pdb
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\poster_application\poster_back\Posterr.Repository\bin\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.AssemblyReference.cache
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfoInputs.cache
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.AssemblyInfo.cs
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.csproj.CoreCompileInputs.cache
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr..1135A802.Up2Date
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.dll
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\refint\Posterr.Repository.dll
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.pdb
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\Posterr.Repository.genruntimeconfig.cache
+G:\Bruno\poster_application\poster_back\Posterr.Repository\obj\Debug\net8.0\ref\Posterr.Repository.dll

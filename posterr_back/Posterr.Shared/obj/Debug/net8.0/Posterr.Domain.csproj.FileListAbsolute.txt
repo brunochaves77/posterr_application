@@ -1,0 +1,55 @@
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.deps.json
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfo.cs
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\refint\Posterr.Domain.dll
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\source\repos\net_social_media\Posterr.Shared\obj\Debug\net8.0\ref\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.deps.json
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfo.cs
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\refint\Posterr.Domain.dll
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\bruno\Downloads\net_social_media\Posterr.Shared\obj\Debug\net8.0\ref\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.deps.json
+G:\Bruno\Posterr\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfoInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfo.cs
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.csproj.CoreCompileInputs.cache
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\refint\Posterr.Domain.dll
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\Posterr\poster_back\Posterr.Shared\obj\Debug\net8.0\ref\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.deps.json
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\refint\Posterr.Domain.dll
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.pdb
+C:\Users\lucas\OneDrive\Lixos\Área de Trabalho\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\ref\Posterr.Domain.dll
+G:\Bruno\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.deps.json
+G:\Bruno\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\poster_application\poster_back\Posterr.Shared\bin\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfoInputs.cache
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.AssemblyInfo.cs
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.csproj.CoreCompileInputs.cache
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.dll
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\refint\Posterr.Domain.dll
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\Posterr.Domain.pdb
+G:\Bruno\poster_application\poster_back\Posterr.Shared\obj\Debug\net8.0\ref\Posterr.Domain.dll
